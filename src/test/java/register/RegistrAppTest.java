@@ -10,10 +10,10 @@ import java.util.List;
 
 @Test
 public class RegistrAppTest{
-    public void testCase0() throws Exception {
+    /*public void testCase0() throws Exception {
         generic(0);
     }
-
+*/
     @Test(invocationCount = 100, threadPoolSize = 100)
     public void testCase1() throws Exception {
         generic(0);
@@ -21,20 +21,20 @@ public class RegistrAppTest{
 
     @Test(expectedExceptions = InvalidInformationException.class)
     public void testCase2() throws Exception{
-        generic(2);
+        generic(1);
     }
 
     private void generic(int i) throws Exception {
-        List<String> input = Collections.singletonList(readInput(i));
+        List<String> input = readInput(i);
         String output = readOutput(i);
         RegistrApp register = new RegistrApp();
         String response = register.validation(input);
         Assert.assertEquals(response, output);
     }
 
-    private String readInput(int testNumber){
+    private List<String> readInput(int testNumber){
         List<String> lines = readFile(testNumber, "input");
-        return lines.get(0);
+        return lines;
     }
 
     private String readOutput(int testNumber){

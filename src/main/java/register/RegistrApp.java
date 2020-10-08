@@ -1,5 +1,7 @@
 package register;
 
+import com.sun.org.apache.xerces.internal.dom.CoreDOMImplementationImpl;
+
 import javax.swing.plaf.synth.SynthEditorPaneUI;
 import java.util.List;
 import java.util.logging.Logger;
@@ -15,6 +17,9 @@ public class RegistrApp{
 
     }
     Actor actor = new Actor();
+    DGA dga =new DGA(actor);
+    CAlumnos calumnos = new CAlumnos(actor);
+    CDocentes cdocentes = new CDocentes(actor);
 
     public String validation(final List<String> register) throws InvalidInformationException {
 
@@ -40,7 +45,7 @@ public class RegistrApp{
          linkSplitted[2] != "utec.zoom.us" || linkSplitted[3] != "rec" || linkSplitted[4] != "share"
         )
             throw new InvalidInformationException("invalid information!");
-        
+
         actor.registerInformation(title, link);
 
 

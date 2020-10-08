@@ -1,0 +1,517 @@
+-------------------------------------------------------------------------------
+Test set: register.RegistrAppTest
+-------------------------------------------------------------------------------
+Tests run: 102, Failures: 102, Errors: 0, Skipped: 0, Time elapsed: 3.594 s <<< FAILURE! - in register.RegistrAppTest
+testCase0(register.RegistrAppTest)  Time elapsed: 0.228 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase0(RegistrAppTest.java:14)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.149 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.149 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.219 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.22 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.245 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.254 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.265 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.284 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.298 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.308 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.32 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.33 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.338 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.346 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.37 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.434 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.488 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.488 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.5 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.514 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.542 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.542 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.548 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.556 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.61 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.69 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.69 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.704 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.796 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.897 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.905 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.914 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.922 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.932 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.965 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.97 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 0.978 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.106 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.122 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.131 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.138 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.145 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.151 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.157 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.163 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.169 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.175 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.183 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.192 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.201 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.232 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.27 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.282 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.303 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.315 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.347 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.354 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.364 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.373 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.385 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.408 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.408 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.417 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.428 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.485 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.495 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.513 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.529 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.536 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.543 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.552 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.559 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.566 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.573 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.588 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.588 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.595 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.602 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.608 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.615 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.622 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.628 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.634 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.639 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.645 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.655 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.656 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.662 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.668 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.673 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.681 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.687 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.695 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.709 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.716 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.716 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.724 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.733 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.74 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase1(register.RegistrAppTest)  Time elapsed: 1.747 s  <<< FAILURE!
+register.InvalidInformationException: invalid information!
+	at register.RegistrAppTest.generic(RegistrAppTest.java:31)
+	at register.RegistrAppTest.testCase1(RegistrAppTest.java:19)
+
+testCase2(register.RegistrAppTest)  Time elapsed: 0 s  <<< FAILURE!
+org.testng.TestException: 
+
+Expected exception of type class register.InvalidInformationException but got java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at register.RegistrAppTest.readOutput(RegistrAppTest.java:42)
+	at register.RegistrAppTest.generic(RegistrAppTest.java:29)
+	at register.RegistrAppTest.testCase2(RegistrAppTest.java:24)
+

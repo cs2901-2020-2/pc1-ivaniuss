@@ -1,0 +1,6 @@
+register/Observer.class
+register/DGA.class
+register/InvalidInformationException.class
+register/Subject.class
+register/Actor.class
+register/RegistrApp.class
