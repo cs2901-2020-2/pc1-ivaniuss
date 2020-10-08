@@ -2,6 +2,7 @@ package register;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import java.util.Collections;
 import java.util.Scanner;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -24,7 +25,7 @@ public class RegistrAppTest{
     }
 
     private void generic(int i) throws Exception {
-        String input = readInput(i);
+        List<String> input = Collections.singletonList(readInput(i));
         String output = readOutput(i);
         RegistrApp register = new RegistrApp();
         String response = register.validation(input);

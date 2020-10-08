@@ -18,11 +18,11 @@ public class RegistrApp{
 
     public String validation(final List<String> register) throws InvalidInformationException {
 
-        String title = new String(register.get(1));
-        String link = new String(register.get(2));
+        String title = register.get(1);
+        String link = register.get(2);
 
         String[] titleSplitted = title.split(",");
-        String[] linkSplitted = link.split(",");
+        String[] linkSplitted = link.split("/");
 
         if(titleSplitted.length != 5)
             throw new InvalidInformationException("invalid information!");
@@ -36,10 +36,15 @@ public class RegistrApp{
         else if(semestreSplitted[2] != "ES")
             throw new InvalidInformationException("invalid information!");
 
+        if (linkSplitted.length != 5 || linkSplitted[0] != "http:" || linkSplitted[1] != "" ||
+         linkSplitted[2] != "utec.zoom.us" || linkSplitted[3] != "rec" || linkSplitted[4] != "share"
+        )
+            throw new InvalidInformationException("invalid information!");
+        
         actor.registerInformation(title, link);
 
 
-        return "sdfas";
+        return "validated";
     }
 
 
